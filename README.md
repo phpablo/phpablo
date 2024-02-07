@@ -36,9 +36,8 @@
 <!--  FIM STACKS  -->
 <!--       SNAKE -->
       
-![Snake animation](https://github.com/phpablo/phpablo/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/phpablo/phpablo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/phpablo/phpablo/blob/output/github-user-contribution.svg.svg)
       
 <!--       FIMSNAKI  -->
 <!--       GRAFICO DE COMMITS  -->
