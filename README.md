@@ -119,6 +119,11 @@ No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com
       <!-- FIM-REPOSITÓRIOS -->
       <hr/>
 </div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{phpablo}/count.svg" /></p> 
+<br>
+</div>
 <a href="#none" title=" ">
      <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
