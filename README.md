@@ -42,6 +42,7 @@
 <!--       FIMSNAKI  -->
 <!--       GRAFICO DE COMMITS  -->
 <div>
+      
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phpablo&bg_color=060d18&color=6c87ea&line=5c92ff&point=ededed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--      FIM GRAFICO DE COMMITS  -->
  </div>     
