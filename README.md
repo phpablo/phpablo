@@ -109,10 +109,6 @@ No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com
             <!-- </br> -->
             <p align="left">
                   Dê uma passada nos principais repositórios que estou trabalhando. Além disso, não esqueça de dar uma estrela 🌟!</p>
-            <a href="https://github.com/phpablo/phpablo">
-                  <img height="115" alt="Repositório profile" title="Repositório para perfil do Github"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=phpablo&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
-            </a>
             <a href="https://github.com/phpablo/Minha-Jornada-Dev-WEB">
                   <img height="115" alt="Repositório minha jornada dev" title="Minha Jornada Dev"
                   src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=minha-jornada-dev-web&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
