@@ -27,11 +27,12 @@
       </div>
 <!--  MINHA STACKS  -->
 <div style="display: inline_block"><br>
-<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css,js"/>
-<img alt="Back-end tools" title="Back-end" src="https://skillicons.dev/icons?i=php,mysql"/>
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,github,git,vscode"/>
+<!--<img alt="Back-end tools" title="Back-end" src="https://skillicons.dev/icons?i=php,mysql,python"/>
+<img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=bootstrap"/>
 <img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=react,bootstrap"/>
 <img alt="Tools" title="Tools" src="https://skillicons.dev/icons?i=github,git"/>
-<img alt="Code Editors/IDE" title="Code Editors/IDE" src="https://skillicons.dev/icons?i=vscode"/>
+<img alt="Code Editors/IDE" title="Code Editors/IDE" src="https://skillicons.dev/icons?i=vscode"/>  -->
 </div>
 <!--  FIM STACKS  -->
 <!--       SNAKE -->
@@ -55,10 +56,10 @@
 <?php
 $phpablo = [
     'name' => 'Pablo Araújo',
-    'age' => 27,
+    'age' => 28,
     'job' => 'Fullstack Web Developer',
     'location' => 'Ceará, BR',
-    'languages' => ['PHP', 'Javascript', 'Python'],
+    'languages' => ['PHP', 'Javascript'],
     'favorite spell' => 'Expecto Patronum'
 ];
 ?>
