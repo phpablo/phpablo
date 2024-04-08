@@ -27,7 +27,7 @@
       </div>
 <!--  MINHA STACKS  -->
 <div style="display: inline_block"><br>
-<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,github,git,vscode"/>
+<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,github,git,vscode,discord,notion"/>
 <!--<img alt="Back-end tools" title="Back-end" src="https://skillicons.dev/icons?i=php,mysql,python"/>
 <img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=bootstrap"/>
 <img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=react,bootstrap"/>
