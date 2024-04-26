@@ -42,8 +42,6 @@
 
 ![Snake animation](https://github.com/phpablo/phpablo/blob/main/.github/workflows/github-user-contribution%20(1).svg)
 
-![snake animation](https://github.com/phpablo/phpablo/blob/output/github-contribution-grid-snake2.svg)
-      
 <!--       FIMSNAKI  -->
 <!--       GRAFICO DE COMMITS  -->
 <div>
