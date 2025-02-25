@@ -8,7 +8,7 @@
       <!-- ESCRITA DINÂMICA -->
       <a href="#none" title=" ">
             <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+PHP+,+React.JS+e+Python;Fullstack+Web+Developer"/>
+            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+PHP+,+NodeJS+e+ReackJS;Fullstack+Web+Developer"/>
       </a>
       <!-- REDES SOCIAIS -->
       <div align="center">
