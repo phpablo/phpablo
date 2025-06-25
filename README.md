@@ -6,8 +6,7 @@
             src="https://capsule-render.vercel.app/api?type=venom&fontColor=8ACDD7&color=40:146C94,100:19A7CE&height=120&section=header&text=PabloHenrique&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?      font=Fira+Code&pause=1000&width=435&lines=Engenharia+de+Software;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;JavaScript+%7C+NodeJS+%7C+Python" alt="Typing SVG" />
-      </a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenharia+de+Software;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;JavaScript+%7C+NodeJS+%7C+Python" alt="Typing SVG" /></a>
       <!-- REDES SOCIAIS -->
       <div align="center">
             <a href="https://www.linkedin.com/in/pablohenriquearaujo" title="Ir para o LinkedIn?">
