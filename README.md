@@ -3,12 +3,10 @@
       <!-- CABEÇALHO -->
       <a href="#repo" title=" ">
             <img alt="Capsule Render" width="100%"
-            src="https://capsule-render.vercel.app/api?type=venom&fontColor=8ACDD7&color=40:146C94,100:19A7CE&height=120&section=header&text=PHPablo&fontSize=50&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=venom&fontColor=8ACDD7&color=40:146C94,100:19A7CE&height=120&section=header&text=PabloHenrique&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
-      <a href="#none" title=" ">
-            <img alt=": Press F5"
-            src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=20&duration=4000&pause=500&color=61FFCA&center=true&width=435&lines=Análise+e+Desenvolvimento+de+Sistemas;Estudando+PHP+,+NodeJS+e+ReackJS;Fullstack+Web+Developer"/>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?      font=Fira+Code&pause=1000&width=435&lines=Engenharia+de+Software;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;JavaScript+%7C+NodeJS+%7C+Python" alt="Typing SVG" />
       </a>
       <!-- REDES SOCIAIS -->
       <div align="center">
@@ -16,7 +14,7 @@
                   <img alt="Badge LinkedIn"
                   src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
             </a>
-            <a href="https://www.instagram.com/phpablo.dev" title="Ir para o Instagram?">
+            <a href="https://www.instagram.com/pablohenrique.dev" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
@@ -56,8 +54,8 @@
 <?php
 $phpablo = [
     'name' => 'Pablo Araújo',
-    'age' => 28,
-    'job' => 'Fullstack Web Developer',
+    'age' => 29,
+    'job' => 'Desenvolvedor Front-End',
     'location' => 'Ceará, BR',
     'languages' => ['PHP', 'Javascript'],
     'favorite spell' => 'Expecto Patronum'
@@ -71,13 +69,12 @@ $phpablo = [
             <em><strong>Oi, <del>eu sou Goku</del> o PHPablo</strong></em><br>
             Me chamo <del>Pablo Araújo</del> <ins>Zer0 M3ia</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos e projetos pessoais.</strong> <br>
         
-Estou atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, e possuo habilidades intermediárias em <strong>inglês</strong>. No meu papel como Desenvolvedor Web, trabalho com um sistema da empresa desenvolvido pela equipe de programadores. Minhas responsabilidades incluem a manutenção do site, criação de novas funcionalidades e atualizações de layout no front-end, utilizando HTML5, CSS3, JavaScript e Bootstrap 4. </br>
+Estou atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Federal do Cariri e <strong>Engenharia de Software</strong> pela Universidade União das Américas Descomplica, e possuo habilidades intermediárias nível C1 em <strong>inglês</strong>. No meu papel como Desenvolvedor Web, trabalho com um sistema da empresa desenvolvido pela equipe de programadores. Minhas responsabilidades incluem a manutenção do site, criação de novas funcionalidades e atualizações de layout no front-end, utilizando HTML5, CSS3, JavaScript e Bootstrap 4. </br>
 
 No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com suporte do banco de dados MySQL quando necessário em alguma feature. Sempre aplico as boas práticas do <strong>Clean Code</strong> e do <strong>DRY</strong> para garantir alta qualidade no código, além de documentação adequada e versionamento no <strong>Git e GitHub.</strong> </br>
 
 <em>Foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor <strong>Fullstack</strong></em>.<br>
 
-<del><em>🐺Eu não sou o John Snow! Eu <strong>know nothing</strong> sim!</em></del>
 </p>
    </div>  
 
