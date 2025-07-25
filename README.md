@@ -112,13 +112,13 @@ No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com
             <!-- </br> -->
             <p align="left">
                   Dê uma passada nos principais repositórios que estou trabalhando. Além disso, não esqueça de dar uma estrela 🌟!</p>
-            <a href="https://github.com/phpablo/Minha-Jornada-Dev-WEB">
-                  <img height="115" alt="Repositório minha jornada dev" title="Minha Jornada Dev"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=minha-jornada-dev-web&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
+            <a href="https://github.com/phpablo/meus-estudos">
+                  <img height="115" alt="Repositório meus estudos" title="Meus Estudos - Universidade e Cursos"
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=meus-estudos&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
             </a>
-            <a href="https://github.com/phpablo/AccioCodeProjetos">
-                  <img height="115" alt="Repositório accioCodeProjetos" title="Repositório de Projetos"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=acciocodeprojetos&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
+            <a href="https://github.com/phpablo/curso-full-stack-b7web">
+                  <img height="115" alt="curso-full-stack-b7web" title="curso-full-stack-b7web"
+                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=curso-full-stack-b7web&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
             </a>
            
   </div>
