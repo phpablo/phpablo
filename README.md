@@ -96,16 +96,6 @@ No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com
             </a>
       </div>
  <!-- LANGUAGES + STATS -->
-       <!-- STREAK -->
-      <div>
-                 <h3> <em><strong>Sequências de commits</strong></em> 🔥</h3>
-            </br>
-            <a href="#none">
-                  <img height="200" alt="My Streaks" title="Sequências de commits 🔥"
-                  src="https://streak-stats.demolab.com?user=phpablo&theme=dracula&border_radius=6&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&background=0F0F0F&fire=f693ff&border=503B7E"/>
-            </a>
-      </div>
-       <!-- FIM-STREAK -->
       <!-- REPOSITÓRIOS -->
   <div>
                 <h3><em><strong>Repositórios</strong></em> 📂</h3> 
@@ -124,11 +114,6 @@ No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com
   </div>
       <!-- FIM-REPOSITÓRIOS -->
       <hr/>
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{phpablo}/count.svg" /></p> 
-<br>
 </div>
 <a href="#none" title=" ">
      <img alt="Capsule Render" width="100%"
