@@ -35,9 +35,7 @@
 <!--       SNAKE -->
       
 
-<!--![Snake animation](https://github.com/phpablo/phpablo/blob/output/github-user-contribution.svg)-->
 
-![Snake animation](https://github.com/phpablo/phpablo/blob/main/.github/workflows/github-user-contribution%20(1).svg)
 
 <img src="https://raw.githubusercontent.com/phpablo/phpablo/output/snake.svg" alt="Snake animation" />
 
