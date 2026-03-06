@@ -6,115 +6,92 @@
             src="https://capsule-render.vercel.app/api?type=venom&fontColor=8ACDD7&color=40:146C94,100:19A7CE&height=120&section=header&text=PabloHenrique&fontSize=50&animation=fadeIn"/>
       </a>
       <!-- ESCRITA DINÂMICA -->
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenharia+de+Software;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;JavaScript+%7C+NodeJS+%7C+Python" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenharia+de+Software;A.D.S" alt="Typing SVG" /></a>
       <!-- REDES SOCIAIS -->
       <div align="center">
             <a href="https://www.linkedin.com/in/pablohenriquearaujo" title="Ir para o LinkedIn?">
-                  <img alt="Badge LinkedIn"
-                  src="https://img.shields.io/badge/linkedin-14151f?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
+                  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
             </a>
             <a href="https://www.instagram.com/pablohenrique.dev" title="Ir para o Instagram?">
-                  <img alt="Badge Instagram"
-                  src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
+                  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
             </a>
             <a href="https://www.youtube.com/@DdeDev" title="Ir para o YouTube?">
-                  <img alt="Badge YouTube"
-                  src="https://img.shields.io/badge/youtube-14151f?style=for-the-badge&logo=youtube&logoColor=ff0000"/>
+                  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
             </a>
       </div>
-<!--  MINHA STACKS  -->
-<div style="display: inline_block"><br>
-<img alt="Front-end tools" title="Front-end" src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,github,git,vscode,discord,notion"/>
-<!--<img alt="Back-end tools" title="Back-end" src="https://skillicons.dev/icons?i=php,mysql,python"/>
-<img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=bootstrap"/>
-<img alt="Frameworks and Libs" title="Frameworks and Libs" src="https://skillicons.dev/icons?i=react,bootstrap"/>
-<img alt="Tools" title="Tools" src="https://skillicons.dev/icons?i=github,git"/>
-<img alt="Code Editors/IDE" title="Code Editors/IDE" src="https://skillicons.dev/icons?i=vscode"/>  -->
 </div>
-<!--  FIM STACKS  -->
-<!--       SNAKE -->
-      
 
-
-
-<img src="https://raw.githubusercontent.com/phpablo/phpablo/output/snake.svg" alt="Snake animation" />
-
-<!--       FIMSNAKI  -->
-<!--       GRAFICO DE COMMITS  -->
+<!-- MINHAS STACKS -->
 <div>
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+
+  <h3>Front-End</h3>
+  <p>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+  </p>
+
+  <h3>Back-End</h3>
+  <p>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  </p>
+
+  <h3>Banco de Dados</h3>
+  <p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
+
+  <h3>Ferramentas e Outros</h3>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  </p>
+</div>
+<!-- ESTATÍSTICAS -->
+<div>
+      <h2>📊 Minhas Estatísticas</h2>
+      <div align="center">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpablo&layout=compact&theme=radical"/>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpablo&layout=compact&theme=dracula&border_color=B799FF"/>
+      </div>
+      <div align="center">
+            <img src="https://streak-stats.demolab.com?user=phpablo&theme=dracula&border=B799FF"/>
+      </div>
+</div>
       
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phpablo&bg_color=060d18&color=6c87ea&line=5c92ff&point=ededed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--      FIM GRAFICO DE COMMITS  -->
- </div>     
 </div>
 
 
-```php
-<?php
-$phpablo = [
-    'name' => 'Pablo Araújo',
-    'age' => 29,
-    'job' => 'Desenvolvedor Front-End',
-    'location' => 'Ceará, BR',
-    'languages' => ['PHP', 'Javascript'],
-    'favorite spell' => 'Expecto Patronum'
-];
-?>
-
-```
 <!-- RESUMO -->
 <div>
       <p align="justify">
-            <em><strong>Oi, <del>eu sou Goku</del> o PHPablo</strong></em><br>
-            Me chamo <del>Pablo Araújo</del> <ins>Zer0 M3ia</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>dedicado para compartilhar meus estudos e projetos pessoais.</strong> <br>
+            Me chamo <del>Pablo Araújo</del> <ins>Zer0 M3ia</ins>, espero que esteja bem! Esse é o meu perfil do GitHub <strong>dedicado para compartilhar meus estudos e projetos pessoais.</strong> <br>
         
-Estou atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Federal do Cariri e <strong>Engenharia de Software</strong> pela Universidade União das Américas Descomplica, e possuo habilidades intermediárias nível C1 em <strong>inglês</strong>. No meu papel como Desenvolvedor Web, trabalho com um sistema da empresa desenvolvido pela equipe de programadores. Minhas responsabilidades incluem a manutenção do site, criação de novas funcionalidades e atualizações de layout no front-end, utilizando HTML5, CSS3, JavaScript e Bootstrap 4. </br>
-
-No <strong>Back-End</strong>, utilizo PHP em um projeto Orientado a Objetos, com suporte do banco de dados MySQL quando necessário em alguma feature. Sempre aplico as boas práticas do <strong>Clean Code</strong> e do <strong>DRY</strong> para garantir alta qualidade no código, além de documentação adequada e versionamento no <strong>Git e GitHub.</strong> </br>
-
-<em>Foco uma parcela dos meus estudos em desenvolvimento web com <strong>PHP</strong> e <strong>JS</strong> para me tornar um futuro desenvolvedor <strong>Fullstack</strong></em>.<br>
-
-</p>
-   </div>  
-
-<!-- ESTATÍSTICAS -->
-<div align="center">
-      <h2 id="statistics">
-            <em><strong>📊Minhas Estatísticas</strong></em>
-            <a href="#none" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
-      </h2>
-      <!-- LANGUAGES + STATS -->
-      <div>
-         <h3> <em><strong>Linguagens utilizadas + Status</strong></em> 💻</h3>
-<a href="#none-stats">
-                  <img height="200" alt="My Languages" title="Linguagens utilizadas 💻"
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpablo&theme=dracula&bg_color=deg,000000,001253&hide_progress=false&layout=compact&custom_title=Linguagens&langs_count=10&border_color=B799FF"/>
-            </a>
-            <a href="#none-stats">
-                  <img height="200" alt="My Stats" title="Status 📋"
-                  src="https://github-readme-stats.vercel.app/api?username=phpablo&theme=dracula&show_icons=true&bg_color=deg,000000,001253&border_color=B799FF&rank_icon=github"/>
-            </a>
-      </div>
- <!-- LANGUAGES + STATS -->
-      <!-- REPOSITÓRIOS -->
-  <div>
-                <h3><em><strong>Repositórios</strong></em> 📂</h3> 
-            <!-- </br> -->
-            <p align="left">
-                  Dê uma passada nos principais repositórios que estou trabalhando. Além disso, não esqueça de dar uma estrela 🌟!</p>
-            <a href="https://github.com/phpablo/meus-estudos">
-                  <img height="115" alt="Repositório meus estudos" title="Meus Estudos - Universidade e Cursos"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=meus-estudos&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
-            </a>
-            <a href="https://github.com/phpablo/curso-full-stack-b7web">
-                  <img height="115" alt="curso-full-stack-b7web" title="curso-full-stack-b7web"
-                  src="https://github-readme-stats.vercel.app/api/pin/?username=phpablo&repo=curso-full-stack-b7web&theme=dracula&bg_color=deg,000000,001253&border_color=503b7e"/>
-            </a>
-           
-  </div>
-      <!-- FIM-REPOSITÓRIOS -->
-      <hr/>
+Estou atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Federal do Cariri e <strong>Engenharia de Software</strong> pela Universidade União das Américas Descomplica, e possuo habilidades intermediárias nível C1 em <strong>inglês</strong>.
+      </p>
 </div>
+<!-- REPOSITÓRIOS -->
+<div>
+      <h3>📂 Repositórios em Destaque</h3>
+      <p>
+            Dê uma passada nos meus principais repositórios. Não esqueça de dar uma estrela 🌟!
+      </p>
+      <p>
+           🖼️ <a href="https://phpablo.github.io/meu-portfolio/">Meu Portfolio </a>
+      </p>
+      <p>
+           🗃️<a href="https://github.com/phpablo/ETL-PDF-extractor">ETL PDF Extractor</a>
+      </p>
+     
+</div>
+</div>
+
 <a href="#none" title=" ">
      <img alt="Capsule Render" width="100%"
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
