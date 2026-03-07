@@ -88,6 +88,9 @@ Estou atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong
       <p>
            🗃️<a href="https://github.com/phpablo/ETL-PDF-extractor">ETL PDF Extractor</a>
       </p>
+      <p>
+           🗃️<a href="https://github.com/phpablo/pipeline-ETL-com-python.git">Pipeline ETL com python</a>
+      </p>
      
 </div>
 </div>
